@@ -61,7 +61,9 @@
 
 📜 **Certifications:**  
 ✔️ Mabl Skills Certifications (Advanced) - AI Testing
+
 ✔️ AI in Financial Services Professional Certification - Upstart
+
 ✔️ AWS Partner: Technical Accredited
 
 ---
