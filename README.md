@@ -31,11 +31,22 @@
 ✔️ Integrated **AXE & Playwright** for accessibility testing, ensuring **WCAG compliance**.  
 
 ### 🏢 **Infostretch (Apexon), Santa Clara, CA**  
-**Software Automation Engineer | March 2020 - May 2022**  
+**Software Automation Engineer | April 2021 - May 2022**  
 ✔️ Automated **end-to-end** test scripts for **web & mobile applications** using **Selenium, Appium, Sauce Labs**.  
 ✔️ Developed **BDD test cases** using Cucumber & Gherkin, improving collaboration between QA & developers.  
 ✔️ Integrated automated tests into **CI/CD pipelines using Jenkins**.  
 ✔️ Mentored **junior SDETs**, improving overall team efficiency in mobile automation.  
+
+### 🏢 **Alliance Tek Solutions, Chantilly, VA**  
+**📌 Test Automation Engineer | April 2019 – April 2021**  
+✔️ 🚀 Developed and maintained a Selenium WebDriver automation framework using Java, Cucumber, and Maven, reducing manual testing overhead by 65%.
+✔️ 	✅ Designed and executed a hybrid automation framework (Page Object Model + BDD), improving maintainability and reusability.
+✔️ 🌐 Performed API testing with Postman, ensuring seamless backend integration and data validation.
+✔️ 🔍 Conducted SQL database testing, validating data consistency across multiple joined tables.
+✔️ 🐞 Tracked and managed defects in JIRA, collaborating with developers to resolve issues faster.
+✔️ 📊 Participated in Agile Scrum ceremonies to align QA with development and product teams.
+✔️ 🔄 Executed backend testing with SQL queries, ensuring business logic compliance and data integrity.
+✔️ 🛠️ Conducted ad-hoc exploratory testing to identify and resolve hidden defects before release.
 
 ---
 
