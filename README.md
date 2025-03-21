@@ -80,9 +80,6 @@
 ---
 
 ## 📬 **Let's Connect**  
-
-🌐 **Portfolio:** [Website](#)  
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nabin-adhikari-66568620b/)  
 📧 **Email:** nabin.adhikari349@gmail.com  
 
 ---
