@@ -22,7 +22,7 @@
 ## 💼 **Professional Experience**  
 
 ### 🏢 **Upstart Network Inc., San Mateo, CA**  
-**Software Development Engineer in Test | May 2022 - Present**  
+**Software Development Engineer in Test **
 ✔️ Developed a **comprehensive test automation strategy** using **Playwright & TypeScript**, reducing manual test execution by **70%**.  
 ✔️ Automated functional, API, regression, and performance testing using **Postman, REST Assured, and K6**.  
 ✔️ Optimized CI/CD pipelines with **GitHub Actions**, reducing deployment cycles from **two weeks to one day**.  
@@ -31,14 +31,14 @@
 ✔️ Integrated **AXE & Playwright** for accessibility testing, ensuring **WCAG compliance**.  
 
 ### 🏢 **Infostretch (Apexon), Santa Clara, CA**  
-**Software Automation Engineer | April 2021 - May 2022**  
+**Software Automation Engineer **  
 ✔️ Automated **end-to-end** test scripts for **web & mobile applications** using **Selenium, Appium, Sauce Labs**.  
 ✔️ Developed **BDD test cases** using Cucumber & Gherkin, improving collaboration between QA & developers.  
 ✔️ Integrated automated tests into **CI/CD pipelines using Jenkins**.  
 ✔️ Mentored **junior SDETs**, improving overall team efficiency in mobile automation.  
 
 ### 🏢 **Alliance Tek Solutions, Chantilly, VA**  
-**📌 Test Automation Engineer | April 2019 – April 2021**  
+**📌 Test Automation Engineer **  
 ✔️ 🚀 Developed and maintained a Selenium WebDriver automation framework using Java, Cucumber, and Maven, reducing manual testing overhead by 65%.
 ✔️ 	✅ Designed and executed a hybrid automation framework (Page Object Model + BDD), improving maintainability and reusability.
 ✔️ 🌐 Performed API testing with Postman, ensuring seamless backend integration and data validation.
